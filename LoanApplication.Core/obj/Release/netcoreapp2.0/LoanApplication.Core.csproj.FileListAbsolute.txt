@@ -1,0 +1,8 @@
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\bin\Release\netcoreapp2.0\LoanApplication.Core.deps.json
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\bin\Release\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\bin\Release\netcoreapp2.0\LoanApplication.Core.pdb
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.AssemblyInfoInputs.cache
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.AssemblyInfo.cs
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.dll
+C:\Users\ayobami\Documents\Visual Studio 2017\Projects\book\LoanApplication\LoanApplication.Core\obj\Release\netcoreapp2.0\LoanApplication.Core.pdb
